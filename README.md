@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luca !</h1>
 <h3 align="center">A computer science engineer student from the University of Ferrara</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luca-girotti" alt="luca-girotti" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/luca_girotti" target="blank"><img src="https://img.shields.io/twitter/follow/luca_girotti?logo=twitter&style=for-the-badge" alt="luca_girotti" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://luca-girotti.github.io/](https://luca-girotti.github.io/)
@@ -26,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luca-girotti&show_icons=true&locale=en" alt="luca-girotti" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luca-girotti&" alt="luca-girotti" /></p>
