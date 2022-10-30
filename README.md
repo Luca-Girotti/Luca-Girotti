@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://luca-girotti.github.io/](https://luca-girotti.github.io/)
 
-- 📫 How to reach me **luca.girotti@edu.unife.it**
+- 📫 How to reach me **pythonluca@protonmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/luca-girotti-b441bb177/](https://www.linkedin.com/in/luca-girotti-b441bb177/)
 
