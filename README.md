@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/luca_girotti" target="blank"><img src="https://img.shields.io/twitter/follow/luca_girotti?logo=twitter&style=for-the-badge" alt="luca_girotti" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://luca-girotti.github.io/](https://luca-girotti.github.io/)
+- 👨‍💻 Feel free to check my website [https://luca-girotti.github.io/](https://luca-girotti.github.io/)
 
 - 📫 How to reach me **pythonluca@protonmail.com**
 
