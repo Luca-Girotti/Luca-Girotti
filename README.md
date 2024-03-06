@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca !</h1>
-<h3 align="center">A Computer Science student from the University of Ferrara</h3>
+<h3 align="center">AI master student at the Leiden University</h3>
 
 <p align="left"> <a href="https://twitter.com/luca_girotti" target="blank"><img src="https://img.shields.io/twitter/follow/luca_girotti?logo=twitter&style=for-the-badge" alt="luca_girotti" /></a> </p>
 
