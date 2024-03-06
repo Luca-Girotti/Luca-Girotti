@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca !</h1>
 <h3 align="center">AI master student at the Leiden University</h3>
 
-<p align="left"> <a href="https://twitter.com/luca_girotti](https://twitter.com/IOLuke1)" target="blank"><img src="https://img.shields.io/twitter/follow/luca_girotti?logo=twitter&style=for-the-badge" alt="luca_girotti" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IOLuke1" target="blank"><img src="https://img.shields.io/twitter/follow/luca_girotti?logo=twitter&style=for-the-badge" alt="luca_girotti" /></a> </p>
 
 - 👨‍💻 Feel free to check my website [https://luca-girotti.github.io/](https://luca-girotti.github.io/)
 
