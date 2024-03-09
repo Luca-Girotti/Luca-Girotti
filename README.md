@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/luca-girotti-b441bb177/](https://www.linkedin.com/in/luca-girotti-b441bb177/)
 
-- ⚡ Fun fact **I mostly work, drink coffee and don't sleep at night**
+- ⚡ Fun fact **I am a master at flipping people on the mat 🥋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
