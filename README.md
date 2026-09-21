@@ -21,14 +21,17 @@ Focused on LLM applications, agentic systems, backend engineering and scalable A
 
 ## About me
 
-I'm an AI & Software Engineer with a background in building and deploying production-grade AI systems.
+I'm an AI & Software Engineer with experience building and deploying production-grade AI systems and scalable software products.
 
 Previously, I worked as an AI Engineer at ABN AMRO, where I developed solutions across LLMs, RAG, financial document automation and backend systems.
+
+I also worked as a Technical Consultant and Tech Lead at SKUU, where I designed and developed AI, retail and e-commerce technologies, working across system architecture, backend engineering, infrastructure and product development.
 
 I enjoy working at the intersection of AI and software engineering — taking intelligent systems beyond prototypes and turning them into reliable, scalable products.
 
 - Building production-ready AI and LLM applications
 - Working across agentic AI, RAG, backend systems and cloud infrastructure
+- Experience with retail and e-commerce technology
 - Experienced with software architecture, APIs and data pipelines
 - MSc in Computer Science — Artificial Intelligence, Leiden University
 - Based between Amsterdam and London
@@ -40,6 +43,6 @@ I enjoy working at the intersection of AI and software engineering — taking in
 AI & Machine Learning       Production LLMs, RAG and agentic AI systems
 Backend Engineering         APIs, distributed systems and data pipelines
 AI Engineering              Evaluation, guardrails, retrieval and tool use
+Retail & E-commerce Tech    Inventory, availability and commerce systems
 Cloud & Infrastructure      Scalable, secure and production-ready deployments
-Product Engineering         Turning complex problems into usable software
 Software Architecture       Designing maintainable and reliable systems
